@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe and true relation of the great disorders and riot attempted and committed upon the house of Thomas Hubbert Esquire, (one of His Maiesties justices of the peace for the county of Middlesex) in Moore-fields on the 21. day of March last, (being the Lords day.) And of the chiefe passages and occurrences concerning the same, set forth and published by the said justice, for the better satisfying of misinformed people. And vindicating the city apprentices from the scandalous aspersion cast upon them, of being either the first promoters of it, or chiefe actors in it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77399</idno>
+            <idno type="STC">Wing B4535</idno>
+            <idno type="STC">Thomason E383_15</idno>
+            <idno type="STC">ESTC R201437</idno>
+            <idno type="EEBO-CITATION">99861947</idno>
+            <idno type="PROQUEST">99861947</idno>
+            <idno type="VID">160182</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160182)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E383[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe and true relation of the great disorders and riot attempted and committed upon the house of Thomas Hubbert Esquire, (one of His Maiesties justices of the peace for the county of Middlesex) in Moore-fields on the 21. day of March last, (being the Lords day.) And of the chiefe passages and occurrences concerning the same, set forth and published by the said justice, for the better satisfying of misinformed people. And vindicating the city apprentices from the scandalous aspersion cast upon them, of being either the first promoters of it, or chiefe actors in it.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.C. and are to be sold by Henry Overton, at his shop in Popeshead-Alley.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 4th 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hubbert, Thomas --  Early works to 1800.</term>
+               <term>Riots --  England --  Early works to 1800.</term>
+               <term>Apprentices --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160182:1" rendition="simple:additions"/>
+            <p>A briefe and true RELATION</p>
+            <p>Of the great diſorders and riot at<g ref="char:EOLhyphen"/>tempted and committed upon the Houſe and Good of THOMAS HUBBERT Eſquire, (one of His MAIESTIES Juſtices of the Peace for the County of <hi>Middleſex</hi>) in <hi>Moore-fields</hi> on the 21. day of March laſt, (being the Lords day.)</p>
+            <p>And of the chiefe Paſſages and Occurrences Concerning the ſame, ſet forth and publiſhed by the ſaid Juſtice, for the better ſatisfying of mis<g ref="char:EOLhyphen"/>informed people.</p>
+            <p>And vindicating the City Apprentices from that ſcandalous aſperſion caſt upon them, of being either the firſt promoters of it, or chiefe actors in it.</p>
+            <p>
+               <add>Aprill 9<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON Printed by</hi> I. C. <hi>and are to be ſold by</hi> Henry Overton, <hi>at his Shop in</hi> Popeſhead-Alley. <add>1647.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160182:2"/>
+            <pb n="1" facs="tcp:160182:2"/>
+            <head>A briefe and true RELATION Of the great diſorders and riot, at<g ref="char:EOLhyphen"/>tempted and committed upon the houſe and goods of <hi>Thomas Hubbert</hi> Eſquire, (one of His Majeſties Juſtices of the Peace, for the County of <hi>Middleſex</hi>) in <hi>Moore-fields</hi> on the 21. day of march laſt, (being the Lords day.) &amp;c.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Othing doth ſooner take the hearts and mouths of the people then ſame, eſpecial<g ref="char:EOLhyphen"/>ly when it is popular, &amp; report is of ſuch a diffuſive nature that it ever gathers in its flying: wherefore that I many clip the wing of falſe report, &amp; extend &amp; adde fea<g ref="char:EOLhyphen"/>thers to the wing of Truth, and that I may diſgorge the bitterneſſe of falſhood, where it is already ſucke in, and infuſe and ſettle in that mind the ſweetneſſe of truth, and take of all preſent miſdeemings and miſpriſſoners, and prent future, in and amongſt the people concerning the aforeſaid riot, I thought good to im<g ref="char:EOLhyphen"/>ploy
+<pb n="2" facs="tcp:160182:3"/>ſome endeavours truly to anatomize the whole body of their Monſter, and to publiſh and ſet it forth to the view of ſuch as are de<g ref="char:EOLhyphen"/>ſirous to be truly informed therein.</p>
+            <p>Vpon the ſaid 21. day of March laſt, as I and my family were repairing home from the afternoone Sermon at Shoreditch Church, we unexpectedly mett with a great confluence of people congregated at and before the doore of the Ship Alehouſe, neere the ſix Windmills in Moore-fields, in ſo much that the com<g ref="char:EOLhyphen"/>mon high way and paſſage was much obſtructed by the throung, which was occaſioned by the apprehenſion of ſeverall perſons that were found tipling in the ſaid Alehouſe; by the High Conſtable and other Officers of Shoreditch; who upon their entrance in, and apprehen<g ref="char:EOLhyphen"/>ding of the tiplers, whereby them oppoſed and repelled, and the doores were ſhut upon them; yet nevertheleſſe, the Officers maintained their Guard about the houſe, expecting the com<g ref="char:EOLhyphen"/>ming forth of the Company that were with<g ref="char:EOLhyphen"/>in, untill ſuch time as I came by, who perceiving the multitude of people, immedi<g ref="char:EOLhyphen"/>ately wiſhed the High Conſtable and the reſt, to deſiſt and depart for that time, and one<g ref="char:EOLhyphen"/>ly to take an Accompt of their names that were drinking there; yet for all that, the High Conſtable did charge two Carmen, be<g ref="char:EOLhyphen"/>ing then and there preſent to aide and aſſiſt him
+<pb n="3" facs="tcp:160182:3"/>in the fetching out of the offendours that were in the Alehouſe, and they affronting and abu<g ref="char:EOLhyphen"/>ſing the High Conſtable, and peremptorily re<g ref="char:EOLhyphen"/>fuſing to obey his charge (the effendours in the interim making there eſcape) were forthwith taken hold of and (with no ſmall hurt, and detriment to the officers) were brought before me, which Officers were purſued by an unruly and unreaſonable crew; who forthwith (upon the bringing in of the two (Carmen) complotted and contrived the aſſaulting, and demoliſhing of my wals and Houſe, without any the leaſt inſtigation or demerrit of mine; and did cauſleſly, and vio<g ref="char:EOLhyphen"/>lently throw Stones, and Brickbats at the Win<g ref="char:EOLhyphen"/>dowes of my Houſe. Whereupon I gave preſent Order to the Officers, to diſcharge the two Car<g ref="char:EOLhyphen"/>men convented before me; who accordingly did forthwith conduct them out at the Gate, they themſelves openly Proclaiming, and Declaring un<g ref="char:EOLhyphen"/>to them all, that the Juſtice had freely inlarged them.</p>
+            <p>Yet nevertheleſſe the inveterate malice, and barbarous violence of the rude multitude, could not in the leaſt man<g ref="char:EOLhyphen"/>ner be appeaſed; but ſtill they perſiſted to break down the Wall, and Windowes of my houſe: And then and not til then: ſome freinds of mine that were within the houſe, did adviſe to diſcharge ſome ſmall haile ſhot out at the Windows; thinking therby to diſperſe the tumult (where<g ref="char:EOLhyphen"/>upon it was generally bruted abroad that there were foure or five killed, which hath ſince bin found, and evidently made known to be moſt untrue, ſome of them having ſince benne ſeene and ſpoken with by divers in the City; onely
+<pb n="4" facs="tcp:160182:4"/>having received ſome ſmall hurt upon ſome part of their body) but ſtill they coutinued their onſet, and inveſion more and more upon the houſe, until ſuch time as they had made themſelves forcible p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſeſſors thereof. Where they mercileſly ranſaked, and took away divers goods with them; and forced the people of the houſe, and others that were with them to fly for their lives, and leave the houſe, and goods to their mercileſſe piety.</p>
+            <p>And foraſmuch as there are divers ſcandalous un<g ref="char:EOLhyphen"/>truths fomented, and ſpread abroad, that the City Apprentices were the cheife actors in this tragedie; I have ſolemnly, and primarily ingaged my ſelfe, to put in Print this Relation, ſomewhat to vindicate their aſperſion herein; my own conſcience bearing me witnes, and I experimentally knowing by the diſcovery, and examination of ſuch as are apprehen<g ref="char:EOLhyphen"/>ded, and in durance, that the City Apprentices had the leaſt hand in this high offence, (onely ſome few that were provoaked, and ſet on by the multitude) and I ſhall indeavour for the generall ſatisfaction of all men to give you a juſt accompt of the quallity of the cheife of the offenders; who (as it hath ſince ap<g ref="char:EOLhyphen"/>peared aſwell by ſeverall Informations upon oath of diverſe as were then preſent, as by ſome of their own examinations, and confeſſions) were idle, looſe, and prophane livers maſterleſſe men, and ſuch as have bin out in the Warts, and Houſe-keepers that have ſpent and conſumed their fortunes in ſinfull and it religious courſes, and ſuch as have neither the feare of God nor man before their eyes; And theſe and
+<pb n="5" facs="tcp:160182:4"/>ſuch as theſe were the principall Ring-leaders, abet<g ref="char:EOLhyphen"/>ters, and maintainers of the ſaid tumultuous riot.</p>
+            <p>Thus in diſcharge of my ſolemne ingagement, and for the fully ſatisfying of the miſinformed, I have endeavoured faithfully to impart my reall know<g ref="char:EOLhyphen"/>ledge concerning the premiſſes, confidently aſſuring the inquiſitive Reader, that he may build upon the truth of this Relation; and what other ſoever he hath already entertained, that he decline as falſe and erroneous. Deſiring him with my ſelfe, and all o<g ref="char:EOLhyphen"/>ther well affected people alwaies to pray for, Study and maintaine the eſtabliſhment of the Lawes of the Realme, the Majeſtracy and Civill Govern<g ref="char:EOLhyphen"/>ment of this Kingdome, and the happy Union, Peace, and tranquility of the ſame.</p>
+            <epigraph>
+               <q xml:lang="lat">Quaerite Juſtitiam cuncti, pacem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> probate.</q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
